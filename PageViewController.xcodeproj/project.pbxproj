@@ -13,6 +13,7 @@
 		C7A60C9822A7CE4200105D90 /* PageViewController.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C7A60C9622A7CE4200105D90 /* PageViewController.xcdatamodeld */; };
 		C7A60C9A22A7CE4A00105D90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7A60C9922A7CE4A00105D90 /* Assets.xcassets */; };
 		C7A60C9D22A7CE4A00105D90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7A60C9B22A7CE4A00105D90 /* LaunchScreen.storyboard */; };
+		C7A60CA522A7CEED00105D90 /* RootPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A60CA422A7CEED00105D90 /* RootPageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C7A60C9922A7CE4A00105D90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7A60C9C22A7CE4A00105D90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7A60C9E22A7CE4A00105D90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7A60CA422A7CEED00105D90 /* RootPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootPageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				C7A60C8F22A7CE4200105D90 /* AppDelegate.swift */,
 				C7A60C9122A7CE4200105D90 /* ViewController.swift */,
+				C7A60CA422A7CEED00105D90 /* RootPageViewController.swift */,
 				C7A60C9322A7CE4200105D90 /* Main.storyboard */,
 				C7A60C9922A7CE4A00105D90 /* Assets.xcassets */,
 				C7A60C9B22A7CE4A00105D90 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				C7A60C9822A7CE4200105D90 /* PageViewController.xcdatamodeld in Sources */,
 				C7A60C9222A7CE4200105D90 /* ViewController.swift in Sources */,
 				C7A60C9022A7CE4200105D90 /* AppDelegate.swift in Sources */,
+				C7A60CA522A7CEED00105D90 /* RootPageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
