@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Tka-Wr-VTl">
-    <device id="retina6_1" orientation="portrait">
+    <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
@@ -23,7 +23,7 @@
             <objects>
                 <viewController storyboardIdentifier="RedVC" id="BN5-Hu-9oj" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" restorationIdentifier="RedVC" id="tZW-Rd-yqZ">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" red="1" green="0.26628721080000001" blue="0.245839223" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="Dx1-ni-QoY"/>
@@ -38,7 +38,7 @@
             <objects>
                 <viewController storyboardIdentifier="GreyVC" id="JFv-tv-3q5" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="yag-fQ-LMX">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="CBr-eE-VBO"/>
@@ -53,7 +53,7 @@
             <objects>
                 <viewController storyboardIdentifier="BlackVC" id="w9B-gB-R03" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="nEE-D6-QVI">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
                         <viewLayoutGuide key="safeArea" id="XVw-by-tTc"/>
